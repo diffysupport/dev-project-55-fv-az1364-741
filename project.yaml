@@ -1,7 +1,7 @@
 basic:
-    name: Jacobs-Kessler
+    name: 'Witting Inc'
     environments:
-        production: 'https://tromp.biz/minima-dolor-ullam-ab-ducimus-quas.html'
+        production: 'https://www.corkery.com/delectus-laborum-quis-similique-sunt-ullam-et-autem'
         staging: ''
         development: ''
     breakpoints:
